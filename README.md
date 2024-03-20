@@ -6,10 +6,15 @@ This repository contains a Python script for converting text to speech using eit
 
 The purpose of this project is to provide a simple and flexible way to convert text to speech. It can be used for a variety of applications, such as creating audio books, aiding in accessibility, or developing voice assistants.
 
+## Future
+
+In the future, I plan to add support for more text-to-speech APIs, as well as additional features such as saving the audio to a file, and more advanced audio manipulation to support different use cases, as well as support for different audio players and real-time audio playback.
+
 ## Getting Started
 
 - [OpenAI Text-to-Speech Guide](https://beta.openai.com/docs/guides/text-to-speech)
 - [ElevenLabs Text-to-Speech Documentation](https://elevenlabs.io/docs/introduction)
+- [PlayHT Text-to-Speech Documentation](https://docs.play.ht/reference/api-getting-started)
 
 ### Prerequisites
 
