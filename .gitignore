@@ -1,3 +1,4 @@
 .envrc
 .venv
 *.mp3
+.DS_Store
