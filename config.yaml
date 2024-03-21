@@ -1,0 +1,15 @@
+default:
+  api: elevenlabs
+  output_dir: output
+  file_name_prefix: speech_
+openai:
+  model: tts-1-hd 
+  voice: fable
+elevenlabs:
+  model_id: eleven_turbo_v2 
+  voice_id: abRFZIdN4pvo8ZPmGxHP
+  voice_settings:
+    stability: 0.5
+    similarity_boost: 0.75
+    style: 0.0
+    use_speaker_boost: true
